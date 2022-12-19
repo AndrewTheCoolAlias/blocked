@@ -9,6 +9,6 @@ window.location.href = "https://andrewthecoolalias.github.io";
 }
 } catch (ex) {
 //Blocking Embed...
-window.location.href = "https://andrewthecoolalias.github.io/blocked";
+window.location.href = "https://andrewthecoolalias.github.io/blocked/blocked/index.html";
 }
 } 
